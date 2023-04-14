@@ -19,13 +19,13 @@ a "Snow Shrike"
 q "**The Night's Watch Oath involves the speaker saying** “I am the...” **a lot. Finish one of those lines.**"
 a "sword in the darkness", "watcher on the walls", "fire that burns against the cold"
 
-q "**How many major Westerosi roads terminate at Casterly Rock**"
+q "**How many major Westerosi roads terminate at Casterly Rock?**"
 a "3", "three"
 
 q "**Which House ruled the majority of the Crownlands before Aegon the Conqueror?**"
 a "Hoare", "House Hoare"
 
-q "**Which major Westerosi river meets the Blackwater Bay at its mouth**"
+q "**Which major Westerosi river meets the Blackwater Bay at its mouth?**"
 a "Blackwater Rush"
 
 q "**Which Westerosi town is closest to the point where all three branches of the trident meet?**"
@@ -67,7 +67,7 @@ a "Oldtown", "Old-town", "Old Town"
 q "**To which Westerosi house did the third lord paramount of the Mander belong to?**"
 a "Tyrell", "House Tyrell"
 
-q "**Which Westerosi year has a name which paraphrases to 'Deceptive Season'**"
+q "**Which Westerosi year has a name which paraphrases to 'Deceptive Season'?**"
 a "The year of the false spring", "year of the false spring", "false spring"
 
 q "**Which Stark king was King in the North during the coming of the Andals?**"
@@ -91,7 +91,7 @@ a "Spicer", "House Spicer"
 q "**What is the most populated city in the Reach?**"
 a "Oldtown", "Old town", "Old-town"
 
-q "**Situated near the Stormlands border with the Reach, to which Westerosi house did the castle of Summerhall belong to**"
+q "**Situated near the Stormlands border with the Reach, to which Westerosi house did the castle of Summerhall belong to?**"
 a "Targaryen", "House Targaryen"
 
 q "**What's West of Westeros? (The wester-most point of Westeros)**"
@@ -103,7 +103,7 @@ a "Runes"
 q "**What is Aegon Frey's nickname?**"
 a "Jinglebell", "Bloodborn"
 
-q "**This Westerosi feline has thick black fur with white stripes."
+q "**What Westerosi feline has thick black fur with white stripes?**"
 a "Shadowcat", "shadowcats"
 
 q "**The Raven appears in the sigil of at least four Westerosi houses. Name one!**"
@@ -127,17 +127,17 @@ a "Blackhaven"
 q "**In Maidenpool, an assassination attempt was carried out against Queen Alysanne Targaryen while she bathed in what famed bathhouse?**"
 a "Jonquil's Pool", "Jonquils Pool"
 
-q "The Grey King of the Age of Heroes is said to have reigned in the Iron Islands for how many years?"
+q "**The Grey King of the Age of Heroes is said to have reigned in the Iron Islands for how many years?**"
 a "1,007", "1007"
 
-q "**What type of watercraft are customarily used to ply the rivers of Dorne**"
+q "**What type of watercraft are customarily used to ply the rivers of Dorne?**"
 a "Poleboat", "Poleboats", "Pole boat", "Pole boats", "Pole-boat", "Pole-boats"
 
 q "**Name the Night's Watch cook.**"
 a "Hobb", "Three Finger Hobb", "Three-Finger Hobb"
 
 q "**Name one of Jon's opponents in the election before he became Lord Commander-elect.**"
-a "Cotter Pyke", "Denys Mallister"
+a "Cotter Pyke and Denys Mallister", "Cotter Pyke", "Cotter", "Denys Mallister", "Denys"
 
 q "**Who is the singer that writes *Hands of Gold* who Tyrion later has killed?**"
 a "Symon Silvertongue", "Symon"

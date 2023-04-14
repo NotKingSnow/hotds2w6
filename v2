@@ -1,0 +1,179 @@
+q "**Summerhall is located near the foothills of what mountain range?**"
+a "The Red Mountains", "Red Mountains"
+
+q "**What large island is located in the Bay of Seals?**"
+a "Skagos"
+
+q "**What is the most populated city in the North?**"
+a "White Harbor", "whiteharbor"
+
+q "**How many islands are part of the Iron Islands archipelago?**"
+a "31", "thirty one", "thirty-one"
+
+q "**The Iron Islands were briefly ruled by a knight from the Westerlands, to what house did he belong to?**"
+a "Crakehall", "House Crakehall"
+
+q "**During the War of the Five Kings, the northmen use the call of a bird to signal the start of battle. Which Westerosi bird did that call belong to?**"
+a "Snow Shrike"
+
+q "**The Night's Watch Oath involves the speaker saying** “I am the...” **a lot. Finish one of those lines.**"
+a "sword in the darkness", "watcher on the walls", "fire that burns against the cold"
+
+q "**How many major Westerosi roads terminate at Casterly Rock**"
+a "3", "three"
+
+q "**Which House ruled the majority of the Crownlands before Aegon the Conqueror?**"
+a "Hoare", "House Hoare"
+
+q "**Which major Westerosi river meets the Blackwater Bay at its mouth**"
+a "Blackwater Rush"
+
+q "**Which Westerosi town is closest to the point where all three branches of the trident meet?**"
+a "Lord Harroway's Town", "Lord Harroways Town"
+
+q "**What is the most populated city in the Westerlands?**"
+a "Lannisport"
+
+q "**To which Westrosi house did the only Queen of the Trident belong to?**"
+a "Nutt", "House Nutt"
+
+q "**A Dornish house guards the pass which connects Dorne to the Stormlands, with a customarily held title of: "Warden of the ____". Fill in the blank.**"
+a "Stone way", "stoneway"
+
+q "**To which Westerosi house does the self-proclaimed Bride of the Merling King belong to?**"
+a "Upcliff", "House Upcliff"
+
+q "**Though the men of the North are customarily known for their honor, which Westerosi archipelago are said to have been the site of several atrocities by Northern invaders?**"
+a "Three Sisters", "The Three Sisters"
+
+q "**What weapon are a treacherous series rock formations within the Blackwater Bay named after?**"
+a "Spear", "Spears"
+
+q "**What is the most populated city in the Vale?**"
+a "Gulltown", "gull town"
+
+q "**Which Westerosi House rules the land where the first King of the First Men was buried?**"
+a "House Dustin", "Dustin"
+
+q "**Which fortress serves as the seat of House Manderly?**"
+a "New Castle", "The New Castle"
+
+q "**In which Westerosi prison is Lord Davos Seaworth held after a failed attempt to recruit Lord Wyman to join King Stannis**"
+a "Wolf's Den", "The Wolf's Den", "Wolfs Den", "The Wolf's Den"
+
+q "**In which Westerosi city is the Starry Sept located?**"
+a "Oldtown", "Old-town", "Old Town"
+
+q "**To which Westerosi house did the third lord paramount of the Mander belong to?**"
+a "Tyrell", "House Tyrell"
+
+q "**Which Westerosi year has a name which paraphrases to 'Deceptive Season'**"
+a "The year of the false spring", "year of the false spring", "false spring"
+
+q "**Which Stark king was King in the North during the coming of the Andals?**"
+a "King Theon Stark", "Theon Stark", "Theon"
+
+q "**What was the local moniker given to the King of the Reach who attempted to raise the dead the invasion of the Andals?**"
+a "the Madling", "Madling", "Mern the Madling"
+
+q "**What volcanic rock are the walls of the seat of House Dondarrion made from?**"
+a "Basalt"
+
+q "**At which crossing of the river Trident did Tywin Lannister's forces avenge the kidnapping of Tyrion Lannister?**"
+a "Mummer's Ford", "Mummers Ford"
+
+q "**The castellan of the Crag was awarded the tithes and titles of which castle for the part he played in the Red Wedding?**"
+a "Castamere"
+
+q "**To which Westerosi house does Maggy the Frog trace her lineage?**"
+a "Spicer", "House Spicer"
+
+q "**What is the most populated city in the Reach?**"
+a "Oldtown", "Old town", "Old-town"
+
+q "**Situated near the Stormlands border with the Reach, to which Westerosi house did the castle of Summerhall belong to**"
+a "Targaryen", "House Targaryen"
+
+q "**What's West of Westeros? (The wester-most point of Westeros)**"
+a "The Lonely Light", "Lonely Light"
+
+q "**The First Men used these markings as a writing system, and are still found across Westeros?**"
+a "Runes"
+
+q "**What is Aegon Frey's nickname?**"
+a "Jinglebell", "Bloodborn"
+
+q "**This Westerosi feline has thick black fur with white stripes."
+a "Shadowcat", "shadowcats"
+
+q "**The Raven appears in the sigil of at least four Westerosi houses. Name one!**"
+a "Houses Blackwood, Corbray, Doggett, and Hoare", "House Blackwood", "Blackwood", "House Corbray", "Corbray", "House Doggett", "Doggett", "House Hoare", "Hoare"
+
+q "**Skagos means what in Old Tongue?**"
+a "Stone"
+
+q "**What is the Westerosi name for their local crocodilian reptile species?**"
+a "lizard-lion", "lizardlion", "lizard lion", "lizard lions", "lizard-lions", "lizard-lions"
+
+q "**What village in the Riverlands is also the seat of House Nayland?**"
+a "Hag's Mire", "Hags Mire"
+
+q "**What is the surname given to bastards in the Westerlands?**"
+a "Hill"
+
+q "**Criston Cole was the son of the steward of what castle in the Stormlands?**"
+a "Blackhaven"
+
+q "**In Maidenpool, an assassination attempt was carried out against Queen Alysanne Targaryen while she bathed in what famed bathhouse?**"
+a "Jonquil's Pool", "Jonquils Pool"
+
+q "The Grey King of the Age of Heroes is said to have reigned in the Iron Islands for how many years?"
+a "1,007", "1007"
+
+q "**What type of watercraft are customarily used to ply the rivers of Dorne**"
+a "Poleboat", "Poleboats", "Pole boat", "Pole boats", "Pole-boat", "Pole-boats"
+
+q "**Name the Night's Watch cook.**"
+a "Hobb", "Three Finger Hobb", "Three-Finger Hobb"
+
+q "**Name one of Jon's opponents in the election before he became Lord Commander-elect.**"
+a "Cotter Pyke", "Denys Mallister"
+
+q "**Who is the singer that writes *Hands of Gold* who Tyrion later has killed?**"
+a "Symon Silvertongue", "Symon"
+
+q "**Finish the quote:** “The bloody wall will melt before an Umber...”"
+a "marches behind a Glover"
+
+q "**The Night's Watch Oath involves the speaker saying** “I shall...” **a lot. Finish one of those lines.**"
+a "take no wife, hold no lands, father no children", "take no wife", "hold no lands", "father no children", "wear no crowns", "win no glory", "live and die at my post", "wear no crowns and win no glory"
+
+q "**What is the first name of the master of horse at Winterfell who accompanies Eddard Stark on his ill-fated journey to Kings Landing.**"
+a "Hullen"
+
+q "**It is customary for candidates in Kingsmoots to sway the vote with generous gifts. Name one of the gifts offered by Asha Greyjoy at the Kingsmoot following her father's death.**"
+a "Cobblestones", "Cobblestone", "pinecones", "pine cones", "pine cone", "pine cones", "turnips", "turnips"
+
+q "**To which Westerosi house did the lord admiral of the Reach belong to during the events that followed the murder of the Lord of the Iron Islands at the time of the Dance of the Dragons?**"
+a "Costayne", "House Costayne"
+
+q "**You are a Greyjoy raider en route to Moat Cailin, on the banks of which body of water do you land your longboats to reduce your overland journey as much as possible?**"
+a "Fever River", "The Fever River"
+
+q "**Which archipelago of islands are ruled by the Westerosi Houses Chester, Grimm, Hewett, and Serry?**"
+a "Shields", "Four Shields", "The Shields", "The shield islands", "Shield islands"
+
+q "**The Arbor is a fairly large island surrounded by several smaller islands, name one of these surrounding islands.**"
+a "Stonecrab Cay", "Isle of Pigs", "the isle of pigs", "mermaid's palace", "the mermaid's palace", "mermaids palace", "the mermaids palace", "horseshoe rock", "bastard's cradle", "bastards cradle"
+
+q "**Who captains the largest watercraft in the service of the Night's Watch during the events following the War of the Five Kings**"
+a "Old Tattersalt"
+
+q "**Per the musings of Petyr Baelish, Lord Protector of the Vale, a long-serving lord within the vale was murdered by his own eldest son, who is soon to be murdered by his vengeful younger brothers. To which Westerosi house do these troublesome kinslayers belong to?**"
+a "Hunter", "House Hunter"
+
+q "**Daenerys Targaryen vowed to "break the wheel", an image that was depicted by a Westerosi house long before her rise to power. To which Westerosi house does this sigil belong to?**"
+a "Waynwood", "House Waynwood"
+
+q "**Which Westerosi fighter infamously plucked the eyes out of the heads of his captured enemies?**"
+a "The Weeper", "Weeper"

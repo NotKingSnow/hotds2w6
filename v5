@@ -17,7 +17,7 @@ q "**During the War of the Five Kings, the northmen use the call of a bird to si
 a "Snow Shrike"
 
 q "**The Night's Watch Oath involves the speaker saying** “I am the...” **a lot. Finish one of those lines.**"
-a "sword in the darkness", "watcher on the walls", "fire that burns against the cold"
+a "fire that burns against the cold", "the fire that burns against the cold", "I am the fire that burns against the cold", "I am the light that brings the dawn", "the light that brings the dawn", "light that brings the dawn", "I am the horn that wakes the sleepers", "the horn that wakes the sleepers", "horn that wakes the sleepers", "I am the shield that guards the realms of men", "the shield that guards the realms of men", "shield that guards the realms of men"
 
 q "**How many major Westerosi roads terminate at Casterly Rock?**"
 a "3", "three"
@@ -59,7 +59,7 @@ q "**Which fortress serves as the seat of House Manderly?**"
 a "New Castle", "The New Castle"
 
 q "**In which Westerosi prison is Lord Davos Seaworth held after a failed attempt to recruit Lord Wyman to join King Stannis**"
-a "Wolf's Den", "The Wolf's Den", "Wolfs Den", "The Wolf's Den"
+a "The Wolf's Den", "Wolf's Den", "Wolfs Den", "The Wolfs Den"
 
 q "**In which Westerosi city is the Starry Sept located?**"
 a "Oldtown", "Old-town", "Old Town"
@@ -74,7 +74,7 @@ q "**Which Stark king was King in the North during the coming of the Andals?**"
 a "King Theon Stark", "Theon Stark", "Theon"
 
 q "**What was the local moniker given to the King of the Reach who attempted to raise the dead the invasion of the Andals?**"
-a "the Madling", "Madling", "Mern the Madling"
+a "The Madling", "Madling", "Mern the Madling"
 
 q "**What volcanic rock are the walls of the seat of House Dondarrion made from?**"
 a "Basalt"
